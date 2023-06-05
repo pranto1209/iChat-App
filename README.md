@@ -1,2 +1,2 @@
 # iChat-App
-iChat App (iOS Development using Swift)
+iChat App (iOS Development using Swift
